@@ -51,3 +51,38 @@
 ![Alt text](images/Screenshot%20(305).png)
 
 ### Note:: I have checked the given api and upload and attached it to my images folder as well 
+
+## Folder Structure
+
+| --- .vscode<br>
+| ---   config<br>
+| ---    | -- middleware <br>
+| ---    | -- mongoose <br>
+| ---    | -- passport_jwt_strategy<br>
+| ---    controllers<br>
+| ---    | -- api<br>
+| ---    | -- | -- v1<br>
+| ---    | -- | -- | -- doctor_controller<br>
+| ---    | -- | -- | -- patient_controller<br>
+| ---    | -- | -- | -- report_controller<br>
+| ---    images<br>
+| ---     models<br>
+| ---     | -- doctor<br>
+| ---     | -- patient<br>
+| ---     | -- report<br>
+| ---     routes<br>
+| ---     | --api<br>
+| ---     | --| -- v1<br>
+| ---     | --| --  | --- doctors<br>
+| ---     | --| --  | --- index<br>
+| ---     | --| --  | --- patients<br>
+| ---     | --| --  | --- reports<br>
+| ---     | --| -- index<br>
+| ---     | -- index<br> 
+| ---     .gitignore<br>
+| ---      index<br>
+| ---      package-lock.json<br>
+| ---      package.json<br>
+| ---      Readme.md<br>
+
+  
