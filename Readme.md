@@ -14,7 +14,8 @@
     . Patient Report will have the following fields
     . Created by doctor
     . Status
-    . Can be either of: [Negative,                  Travelled-Quarantine, Symptoms-Quarantine, Positive-Admit] from the qn documentation
+    . Can be either of: [Negative,
+     Travelled-Quarantine, Symptoms-Quarantine, Positive-Admit] from the qn documentation
 
 
 ## Prerequisites
